@@ -32,7 +32,7 @@
     "emotion": "^10.0.23",
     "get-urls": "^9.2.0",
     "immer": "^5.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "jest": {
     "transform": {
